@@ -1,3 +1,6 @@
 Linha teste 01
 Linha teste 02
-Linta teste 03
+Linha teste 03
+Linha teste 04
+
+Linha teste, verificando antes de commitar.
